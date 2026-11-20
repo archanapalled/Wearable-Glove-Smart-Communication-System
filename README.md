@@ -1,4 +1,4 @@
-# Wearable Smart Gloves Communication System
+# Wearable Glove Smart Communication System
 
 ## 📌 Project Overview
 
